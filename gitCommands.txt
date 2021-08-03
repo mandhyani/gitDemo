@@ -1,0 +1,86 @@
+##Git Commands 
+
+
+#starting a new project
+
+pwd
+cd projects/
+git init git-demo
+
+
+## Starting with existing project
+
+pwd
+cd projects/
+cd website
+ls
+git init
+
+##Git initialization
+
+git init [project-name]
+
+##Git first command commits
+pwd
+ls
+gedit README.md
+git status
+git commit -m "Initial commit"
+
+git add filename
+
+git commit -m "A really good commirt"
+
+
+## Working locally commands
+
+git status
+
+sit add README.md
+
+git status
+
+git commit -m "Adding some ipsum"
+
+clear
+
+git commit -am "Adding some more ipsum"
+
+
+## Working locally part 2
+
+pwd
+git status
+clear
+mate index.html
+git status
+git add index.html
+git status
+mate README.md
+git status
+clear
+git status
+git add README.md
+git status
+git commit -m "A few changes for the website"
+clear
+mate README.md
+mate index.html
+git status
+git add .
+git status
+git commit -m "A few more changes for website"
+clear
+mate README.md
+git status
+git add README.md
+git status
+git reset HEAD README.md
+clear
+git status
+mate README.md
+git checkout -- README.md
+mate README.md
+git status
+
+
