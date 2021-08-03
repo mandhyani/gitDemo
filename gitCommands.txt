@@ -84,3 +84,19 @@ mate README.md
 git status
 
 
+Adding All Changed Files
+
+git add .
+The period parameter for the git add command will recursively add all new and newly modified files.
+
+Unstage File
+
+git reset HEAD file-name
+Following the above command will "unstage" the specified file from Git's staging area (aka index).
+
+Backout Working Directory Changes
+
+git checkout -- file-name
+Following the above command will back out any changes made to the specified file and replace it with the version last committed in Git
+
+
