@@ -13,8 +13,8 @@ This is the first file in this repository
 
 Some more bullshit
 
-## Maybe I'll add some more bullshit 
+## Maybe I'll add some more stuff
 Who knows how long this'll go on till i add some real stuff
 
-##Some more bullshit
+##Some more stuff
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla nibh faucibus suscipit suscipit. Quisque ullamcorper, lacus at mollis aliquet, nisl eros vulputate elit, quis viverra ante ipsum at mauris. Nullam sollicitudin sem et nibh tristique, ut laoreet nulla faucibus. Pellentesque id turpis vitae nunc gravida porttitor. Integer tellus lectus, pellentesque in auctor in, efficitur vel dolor. Vivamus sagittis efficitur erat, nec elementum metus commodo in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer et dolor mattis diam venenatis aliquet. Suspendisse varius at dolor sit amet efficitur. Maecenas mauris magna, cursus non rhoncus sit amet, tempus ut lorem. Vivamus vitae vulputate nibh, ac mattis dolor. In suscipit mi in enim vehicula, ac suscipit massa pretium. Sed sit amet tortor urna. Nullam laoreet velit nec dignissim facilisis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus elementum ipsum nec sapien aliquam, eget dignissim nulla convallis.
